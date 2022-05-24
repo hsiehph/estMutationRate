@@ -7,11 +7,11 @@ Usage:
 # Config.yaml:
 
 ---
-<b> input dir that contains all sequences in the FASTA format </b>
+<b> #input dir that contains all sequences in the FASTA format </b>
 dir_inFASTA: ./inputFASTA
 
-<b> list1 must contain all possible IDs </b>
+<b> #list1 must contain all possible IDs </b>
 list1_ids: ["chr5", "chm1_cen5v2", "clint_PTR_cen5_h1v1","clint_PTR_cen5_h2v1","susie_pab_cen5_h2v1","ag07107_mmu_cen5_h1v1","ag07107_mmu_cen5_h2v1"]
 
-<b> list2 contains only human sample IDs </b>
+<b> #list2 contains only human sample IDs </b>
 list2_ids: ["chr5", "chm1_cen5v2"]
