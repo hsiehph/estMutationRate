@@ -1,0 +1,10 @@
+ID	File	DivergenceTime
+chm1	others/chm1_cen21v5.TN93.txt	0
+HG00733h1	others/hg00733_cen21_h1v1.TN93.txt	0
+HG00733h2	others/hg00733_cen21_h2v1.TN93.txt	0
+chimph1	others/clint_PTR_cen21_h1v1.TN93.txt	6000000
+chimph2	others/clint_PTR_cen21_h2v1.TN93.txt	6000000
+orangh1	others/susie_pab_cen21_h1v1.TN93.txt	14000000
+orangh2	others/susie_pab_cen21_h2v1.TN93.txt	14000000
+macaqueh1	others/ag07107_mmu_cen21_h1v1.TN93.txt	25000000
+macaqueh2	others/ag07107_mmu_cen21_h2v1.TN93.txt	25000000

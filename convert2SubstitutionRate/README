@@ -1,0 +1,11 @@
+
+# Converting the output of estMutationRate to substitution rates
+# Need a manifest file with three columns: ID, path2File, and divergenceTime(in years)
+
+# Usage:
+# Rscript ConvertDivergence.r _InputManifestFile_  _outputFilename_
+
+# Example:
+Rscript ConvertDivergence.r manifest.tab output.rate.tab
+
+
